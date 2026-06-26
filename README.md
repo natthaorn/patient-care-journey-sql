@@ -104,7 +104,7 @@ Uses date subtraction and `AVG()` to calculate time between each care stage.
 
 🔗 [View Interactive Dashboard on Tableau Public]([#](https://public.tableau.com/app/profile/natthaorn.lapprasitsuk/viz/Healthcare-FunnelAnalysisDashboard/Dashboard1?publish=yes)) 
 
-![Dashboard Preview](<img width="1443" height="735" alt="Screenshot 2569-06-26 at 11 31 12" src="https://github.com/user-attachments/assets/401ab6ad-e2f0-4fa7-bf2a-2facc7664b91" />
+(<img width="1443" height="735" alt="Screenshot 2569-06-26 at 11 31 12" src="https://github.com/user-attachments/assets/401ab6ad-e2f0-4fa7-bf2a-2facc7664b91" />
 
 )
 
