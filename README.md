@@ -102,9 +102,10 @@ Uses date subtraction and `AVG()` to calculate time between each care stage.
 
 ## 📈 Tableau Dashboard
 
-🔗 [View Interactive Dashboard on Tableau Public](#) ← *(replace with your URL)*
+🔗 [View Interactive Dashboard on Tableau Public]([#](https://public.tableau.com/app/profile/natthaorn.lapprasitsuk/viz/Healthcare-FunnelAnalysisDashboard/Dashboard1?publish=yes)) 
 
-![Dashboard Preview](./dashboard_preview.png) ← *(replace with your screenshot)*
+![Dashboard Preview](<img width="1443" height="735" alt="Screenshot 2569-06-26 at 11 31 12" src="https://github.com/user-attachments/assets/f0640324-0c2e-4cce-b56f-925bd15f7b91" />
+)
 
 **Charts included:**
 - Patient Care Journey Funnel Overview
@@ -136,9 +137,10 @@ Uses date subtraction and `AVG()` to calculate time between each care stage.
 
 ## 👤 Author
 
-**[Your Name]**  
+**[L.Natthaorn]**  
 Senior Data Analyst  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](#)  
-🔗 [Tableau Public Profile](#)  
+📧 [natthaorn.l@gemail.com]  
+🔗 ((https://www.linkedin.com/in/natthaornl/))  
+🔗 [Tableau Public Profile](<img width="1443" height="735" alt="Screenshot 2569-06-26 at 11 30 33" src="https://github.com/user-attachments/assets/4371d536-974d-4729-90a5-d5dbf1a69bc1" />
+(https://public.tableau.com/app/profile/natthaorn.lapprasitsuk/vizzes))  
 
