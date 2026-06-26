@@ -1,0 +1,6 @@
+"stage","patient_count","prev_count","conversion_from_start_pct","dropoff_pct"
+"1. Appointment Booked",16,,100.0,
+"2. Diagnosis Made",16,16,100.0,0.0
+"3. Treatment Started",13,16,81.3,18.8
+"4. Follow-up Completed",9,13,56.3,30.8
+"5. Discharged",9,9,56.3,0.0

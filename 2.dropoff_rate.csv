@@ -1,0 +1,6 @@
+"condition","appointment_count","diagnosis_count","treatment_count","followup_count","discharge_count","end_to_end_conversion_pct"
+Hypertension,4,4,4,3,3,75.0
+Asthma,3,3,3,2,2,66.7
+Heart Disease,3,3,2,2,2,66.7
+Anxiety,3,3,1,1,1,33.3
+Diabetes,3,3,3,1,1,33.3

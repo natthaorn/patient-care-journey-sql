@@ -1,0 +1,4 @@
+"insurance_type","appointment_count","diagnosis_count","treatment_count","followup_count","discharge_count","end_to_end_conversion_pct"
+None,3,3,2,2,2,66.7
+Public,7,7,7,4,4,57.1
+Private,6,6,4,3,3,50.0
